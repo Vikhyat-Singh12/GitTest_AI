@@ -26,7 +26,7 @@ router.get("/callback", async (req, res) => {
   // redirect to frontend route with token in query
   const redirectURL =
     process.env.NODE_ENV === "production"
-      ? `https://yourfrontend.onrender.com/auth/callback?token=${accessToken}`
+      ? `https://gittest-ai.onrender.com/auth/callback?token=${accessToken}`
       : `http://localhost:5173/auth/callback?token=${accessToken}`;
 
   res.redirect(redirectURL);

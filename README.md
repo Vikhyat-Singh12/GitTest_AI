@@ -6,7 +6,8 @@ A React + Node.js full-stack app to browse GitHub repositories, view files with 
 
 ## 🚀 Live Demo
 
-* **Frontend + Backend** (Your hosting URL here)
+* **Frontend + Backend** [https://gittest-ai.onrender.com](https://gittest-ai.onrender.com)
+
   ⚠️ Server may take a few seconds to wake up after inactivity.
 
 ---
